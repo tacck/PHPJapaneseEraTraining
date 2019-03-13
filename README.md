@@ -1,0 +1,2 @@
+# PHPJapaneseEraTraining
+元号をPHPで変換する練習
